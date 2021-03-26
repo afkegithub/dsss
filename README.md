@@ -1,18 +1,3 @@
-
-
-Skip to content
-Using Gmail with screen readers
-in:sent 
-Meet
-New meeting
-Join a meeting
-Hangouts
-
-Conversations
-1.22 GB of 15 GB used
-Terms · Privacy · Program Policies
-Last account activity: 2 hours ago
-Details
 # Data Science - Comprehensive
 ###### Note: This is a slightly revitalized version of [P1xt's Data Science Guide](https://github.com/P1xt/p1xt-guides/blob/master/deprecated/data-science.md). All credit should go to her for this learning path.
 A curriculum covering Data Science topics relevant to Machine Learning, Bioinformatics, and Artificial Intelligence. Includes necessary background in mathematics and the sciences.
