@@ -27,7 +27,7 @@ A curriculum covering Data Science topics relevant to Machine Learning, Bioinfor
 - [ ]  Course: [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) 
 - [ ]  Course: [Introduction to Solid State Chemistry](https://ocw.mit.edu/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/index.htm) 
 - [ ]  Course: [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) 
-- [ ]  Book: [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)  
+- [ ]  Book: [An Introduction to Statistical Learning](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf)  
 - [ ]  Course: [Principles of Biochemistry](https://www.edx.org/course/principles-biochemistry-harvardx-mcb63x-0) 
 - [ ]  Book: [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf) 
 - [ ]  Course: [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) 
