@@ -77,7 +77,7 @@ A curriculum covering Data Science topics relevant to Machine Learning, Bioinfor
 - [ ]  Course: [Convex Optimization I](https://see.stanford.edu/Course/EE364A)
 - [ ]  Course: [Convex Optimization II](https://see.stanford.edu/Course/EE364B)
 - [ ]  Book: [R for Data Science](http://r4ds.had.co.nz/) 
-- [ ]  Course: [Probability: Basic Concepts & Discrete Random Variables](https://www.edx.org/course/probability-basic-concepts-discrete-purduex-416-1x-1)
+- [ ]  Course: [Probability: Basic Concepts & Discrete Random Variables](https://learning.edx.org/course/course-v1:PurdueX+416.1x+1T2017)
 - [ ]  Course Series: [Hadoop Path on Cognitive Class](https://cognitiveclass.ai/learn/hadoop/)
 - [ ]  Course: [Probability: Distribution Models & Continuous Random Variables](https://www.edx.org/course/probability-distribution-models-purduex-416-2x-1)
 - [ ]  Course: [Introduction to Mechanics, Part 1](https://www.edx.org/course/introduction-mechanics-part-1-ricex-phys-101-1x) 
