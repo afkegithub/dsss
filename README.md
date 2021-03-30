@@ -128,5 +128,3 @@ A curriculum covering Data Science topics relevant to Machine Learning, Bioinfor
 - [ ]  Course: [Dynamic Systems and Control](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-241j-dynamic-systems-and-control-spring-2011/index.htm) 
 - [ ]  Book: [New Horizons for a Data-Driven Economy](https://link.springer.com/book/10.1007%2F978-3-319-21569-3)
 - [ ]  Book: [The Challenge of Chance](https://link.springer.com/book/10.1007/978-3-319-26300-7)
-New Text Document.txt
-Displaying New Text Document.txt.
